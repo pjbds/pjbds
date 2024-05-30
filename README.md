@@ -10,17 +10,17 @@ font=Righteous&size35&center=true&vCenter=true&width=500&height=70&duration=4000
 
 <div align="center">
 
-- 🔭 I’m currently working on my skills
+ 🔭 I’m currently working on my skills
   
-- 🌱 I’m currently learning G Suite, R & Tableau
+🌱 I’m currently learning G Suite, R & Tableau
   
-- 👯 I’m looking to collaborate on AI development
+👯 I’m looking to collaborate on AI development
   
-- 🤔 I’m looking for help with interesting projects
+🤔 I’m looking for help with interesting projects
   
-- 💬 Ask me about puzzles, enigmas & wordplays
+💬 Ask me about puzzles, enigmas & wordplays
 
-- ⚡ Fun fact: I speak three languages and I'm currently learning a fourth 
+⚡ Fun fact: I speak three languages and I'm currently learning a fourth 
 
 </div>
 
@@ -32,7 +32,7 @@ font=Righteous&size35&center=true&vCenter=true&width=500&height=70&duration=4000
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://pjbds.github.io">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
