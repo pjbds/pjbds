@@ -41,7 +41,7 @@ font=Righteous&size35&center=true&vCenter=true&width=500&height=70&duration=4000
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sql,python,ai,azure,discord,github,matplotlib,pandas,numpy,sqlite,sklearn,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,ai,azure,discord,github,sqlite,sklearn,tensorflow,vscode" />
 </div>
 
 <br/>
