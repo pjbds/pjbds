@@ -25,9 +25,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-
-          
+        uses: actions/checkout@v3
+    
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
