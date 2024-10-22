@@ -4,7 +4,7 @@
   font=Righteous&size35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Benito!"/>
 </h1>
 
-<h3 align="center">A Passionate Data Analyst & Data Scientist from Chile  🇨🇱 </h3>
+<h3 align="center">A Passionate Data Scientist from Chile  🇨🇱 </h3>
 
 <br/>
 
