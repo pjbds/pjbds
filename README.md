@@ -10,13 +10,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on my skills
+ 🔭 I’m currently working as an AI Coding Trainer
   
-🌱 I’m currently learning G Suite, R & Tableau
+🌱 I’m constantly learning new technologies and tools
   
-👯 I’m looking to collaborate on AI development
+👯 I’m looking to work as AI/Machine Learning Engineer 
   
-🤔 I’m looking for help with interesting projects
+🤔 I’m developing some new projects to show! 
   
 💬 Ask me about puzzles, enigmas & wordplays
 
