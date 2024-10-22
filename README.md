@@ -18,7 +18,7 @@
   
 🤔 I’m developing some new projects to show! 
   
-💬 Ask me about puzzles, enigmas & wordplays
+💬 Ask me about Azure AI and no-code cloud solutions! 
 
 ⚡ Fun fact: I speak three languages and I'm currently learning a fourth 
 
