@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,ai,azure,discord,github,sqlite,sklearn,tensorflow,vscode,MySQL-Dark,OpenCV-Dark" />
+    <img src="https://skillicons.dev/icons?i=python,ai,azure,discord,github,sqlite,sklearn,tensorflow,vscode,mysql,opencv" />
 </div>
 
 <br/>
