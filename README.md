@@ -14,13 +14,13 @@
   
 🌱 I’m constantly learning new technologies and tools
   
-👯 I’m an AI/Machine Learning Engineer looking for his next challenge
+👯 I’m an AI Enthusiast
   
-🤔 I’m developing some new projects 
+🤔 I’m developing some CV projects 
   
 💬 Ask me about AI, Computer Vision, Machine Learning, Cloud Computing, NLP and LLM's! 
 
-⚡ Fun fact: I speak three languages and I'm currently learning a fourth 
+⚡ Fun fact: I write in three human languages and a programming one
 
 </div>
 
